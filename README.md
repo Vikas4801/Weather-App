@@ -1,5 +1,9 @@
 # Weather App with OpenWeatherMap API
 
+
+https://github.com/Vikas4801/Weather-App/assets/128455865/2e2a6e98-cca3-426f-87f3-85a19e3b338c
+
+
 ## Overview
 
 This weather app is a simple and user-friendly tool designed to provide you with accurate and up-to-date weather information. It leverages the OpenWeatherMap API to fetch current weather details for the city you specify. The app displays the temperature in degrees Celsius, along with additional information such as humidity and wind speed.
@@ -51,5 +55,9 @@ To run this weather app locally, follow these steps:
 - **OpenWeatherMap:** Special thanks to OpenWeatherMap for providing the API that makes this weather app possible.
 
 ## License
+
+
+
+
 
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as needed, keeping the original license intact.
