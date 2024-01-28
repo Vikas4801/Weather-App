@@ -1,5 +1,9 @@
 # Weather App with OpenWeatherMap API
 
+## Live Link
+
+https://aquamarine-praline-416694.netlify.app/
+
 
 https://github.com/Vikas4801/Weather-App/assets/128455865/2e2a6e98-cca3-426f-87f3-85a19e3b338c
 
